@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "lemint-458316",
+  "private_key_id": "df7adb6af34322222b6a041fc435f850f40816a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDN+4Rw8nW7s+zt\nKR1TGO91lvzZ1WxPiKkQPH/JldpHBhlTWLNhQ8EP+MbmZktomME1W7NlWMUz+Pts\nHZTupV6OIY+azA8FGdutrNslKH+mJVq+r2LmTvKlf+Ev5WkAmowrLLIDpkopN2Qa\ngfyzmI9Y+S32KW8vM7r30VHvAifpg+t2hT6oUEkBP36vRnxJlneHM+1jQ49s+Exo\naMrYtwlxbl0iXXznXGzgjHy2/6JNdNQzCMLaslkRzh/VM3qlGRJ3Qv8WholTxmys\nOTMo5bwZ98XkLeFSt2UnKpYOUE8y8yiDW7ABjZIwIFpzw5z7eI1AnGXVxeoGQPQE\njvPkUk6bAgMBAAECggEAXXkBxO+CFce0gHrj3820/LujyoZbPExbzA5oPuZNw2U1\nIOljnYPNnJ3cRLmvBqwrITeX1SnPc6JNFebmqtVIb18zd5+aQUpWsh165QXXx2G0\nKEwWqUSyQAAkBEQqvidj7EPAFH/lr4Z/WrgaILXedxW8kbSDy/vBoKvQbpGf4ws0\nsqbB5kGj2Ttq6PprR6AhQV0hz09yr+qgl4XDyQBe+ah7pmv357n/eieI8Vn4GqKG\nO9Rwh+XIOu4Gu52JZZTAuyhldHN3KAi1+H6POxLLXCQbrFsWh9GgMNmNaiSGT2fl\n2oLdsQcr4Q7Ta3nWIsm5terjr8mE5AFIGIZUkS9wQQKBgQD/xslLh+Htv4b9nZZS\nwIKjWkl3wRlk3kOItFhbnHheqpvK000mhcLb3k0fNE1dZCrzyJw9dseSqGHdj0Hp\nWSl5tn0TZPli1pEQ8TLNr7GcxKbBMhmMkqyDZfKP0acXaq1PGJTCeBDK4ovgm3vn\nFfNaMYgbbwX3kqOIVPTQ/QwMWQKBgQDOKZfB2JxFMhhTlNPDL80QYjrmL9/7qrjk\nU39PiMkDl9PwAc1h0LHZARXZLoUmrM3G800vYH0KPHhUggZSOaspMef36NdANsMh\nh9IHL27x/u6Lj44XXibXIOPAGiTKHik5xVOLnTWZrdPt9pqKGBE6ow/M+lkpmSB3\njKIL1pwEEwKBgDGJubDkR3C5mJaEL/olCOhEc1g7UQTFO4U9kKNlobaMCpJ07Eta\nusvEuWEiyx0camk+4GvTFoIkFJhJx7U/LJZDLuRTuS1Ya05BuNo3fgnj2HwwjNw6\nCCmG1DzgmSEi6yAXnbAweuggioDc/FlcWf6M+1R840X4461i7uuPJwc5AoGAdm5O\nT30vyFBOyTTlsWr0UkUbsMAv21Lng8Kzj+z0DKxbg7SFV3ubrx2Af5LJyr3aOD/s\nRxsWuZqjRWisWO/n83JH35JSlQDgd5KehKIrCbl5L5L3/VSI22x5aRGbsMBCzn0c\n0UcuU2oYJMtVW58XxqeFnCr0rYDZtdOEA2j1lyECgYBFvIlTPe0PGXLqGiucpLG8\nOCVXZXRLnrLl4uwqEKkUTXRkHqL911Ttmxkat0Y2qMr6XboOpeYAL8tdA1b/W0cX\nHRC/tradNrHto4E+aXIWahug4IiNnK2owqt6TgMp7KoBjtHOwMQ6d9WRqUduiXca\nGMh7epbZhU01XzHYUL66CA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "lemint@lemint-458316.iam.gserviceaccount.com",
+  "client_id": "107630515708972431506",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lemint%40lemint-458316.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+  
